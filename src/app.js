@@ -12,7 +12,7 @@ app.use(cors());
 
 app.get('/', (req, res) => {
 	res.json({
-		message: 'Welocme to Bonsai PORT > explore our branches at /branch 🦄🌈✨👋🌎🌍🌏✨🌈🦄',
+		message: 'Welocme to Bonsai PORT asddddd> explore our branches at /branch 🦄🌈✨👋🌎🌍🌏✨🌈🦄',
 	});
 });
 
