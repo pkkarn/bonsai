@@ -12,7 +12,7 @@ app.use(cors());
 
 app.get('/', (req, res) => {
 	res.json({
-		message: ' sss /s ',
+		message: ' sss ss/s ',
 	});
 });
 
